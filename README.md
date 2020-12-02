@@ -1,2 +1,3 @@
 # Calcul_Numerique
-codes scilab
+
+CE repertoire contient l'ensemble des codes implèmenter sous scilab du TP1 Calcul Numérique.
